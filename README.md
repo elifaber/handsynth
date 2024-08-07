@@ -38,11 +38,11 @@ The following hand gestures control different audio parameters:
 - Audio Issues: Ensure your audio output device is correctly specified. Use the --list-devices option to identify the correct device ID.
 
 ### Dependencies
-opencv-python
-mediapipe
-sounddevice
-numpy
-scipy
+- opencv-python
+- mediapipe
+- sounddevice
+- numpy
+- scipy
 
 Install these with:
 
