@@ -15,12 +15,6 @@ This project uses hand-tracking with Mediapipe to modulate audio frequency, crea
 2. Webcam
 3. Compatible audio output device
 
-### Installing Dependencies
-
-First, make sure you have `pip` installed. Then, install the required packages by running the following command:
-
-pip install opencv-python mediapipe sounddevice numpy scipy
-
 ### Controls
 
 The following hand gestures control different audio parameters:
