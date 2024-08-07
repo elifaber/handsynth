@@ -1,17 +1,15 @@
 # handsynth
 
-This project uses hand-tracking with Mediapipe to modulate audio frequency, create delay and feedback effects, apply a low-pass filter, and add a chorus effect in real-time. The parameters of these effects are controlled by different aspects of hand gestures detected through the webcam.
+This project uses hand-tracking with Mediapipe to modulate audio frequency, create delay and feedback effects, and apply a low-pass filter in real-time. The parameters of these effects are controlled by different aspects of hand gestures detected through the webcam.
 
 ## Table of Contents
 
-- [Setup](#setup)
 - [Running the Code](#running-the-code)
 - [Usage](#usage)
 - [Controls](#controls)
 - [Troubleshooting](#troubleshooting)
 - [Dependencies](#dependencies)
 
-## Setup
 
 ### Prerequisites
 
