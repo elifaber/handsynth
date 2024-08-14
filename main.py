@@ -9,7 +9,7 @@ from scipy.signal import sawtooth
 from helpers import *
 
 delay_in_seconds = .5
-camera = 2 #usually 0 but sometimes needs to be changed. Try values 0-5
+camera = 1 #usually 0 but sometimes needs to be changed. Try values 0-5
 
 
 def parse_args():
